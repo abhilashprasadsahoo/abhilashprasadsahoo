@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash Prasad Sahoo</h1>
 <h3 align="center">Aspiring Data Analyst & Data Engineer. Passionate about Analytics & Design.</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/cc823c52-0cd5-42e2-9d57-048b4f18480f">
+<img align="right" alt="coding" width="300" src="https://github.com/abhilashprasadsahoo/abhilashprasadsahoo/blob/main/Github%20Banner.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhilashprasadsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashprasadsahoo" />
