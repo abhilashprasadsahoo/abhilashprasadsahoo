@@ -5,9 +5,7 @@
 
 <img align="right" alt="coding" width="300" src="https://github.com/abhilashprasadsahoo/abhilashprasadsahoo/blob/main/giphy.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhilashprasadsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashprasadsahoo" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashprasadsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashprasadsahoo" /> </p>
 
 - 🌱 I’m currently learning about **Data Engineering**
 
@@ -15,15 +13,14 @@
 
 - 📫 How to reach me **abhilashprasadsahoo2005@gmail.com**
 
+<!-- Add clear margin above the trophies -->
 <br><br>
 
-<div align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhilashprasadsahoo&margin-w=15&margin-h=15&column=4" alt="abhilashprasadsahoo" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhilashprasadsahoo&margin-w=20&margin-h=20&column=8" alt="abhilashprasadsahoo" />
   </a>
-</div>
-
-<br>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,15 +44,8 @@
   <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a>
 </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashprasadsahoo&show_icons=true&locale=en&layout=compact" alt="abhilashprasadsahoo" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashprasadsahoo&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abhilashprasadsahoo&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashprasadsahoo&show_icons=true&locale=en" alt="abhilashprasadsahoo" /></p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashprasadsahoo" alt="Streak Stats" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashprasadsahoo&" alt="abhilashprasadsahoo" /></p>
